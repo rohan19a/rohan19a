@@ -1,4 +1,6 @@
 ### Hi there 👋
+📫 How to reach me: arohan19@gmail.com
+
 
 <!--
 **rohan19a/rohan19a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
